@@ -1,6 +1,7 @@
 # Backend Learning with Javascript Express
 
 Javascript Backend Roadmap
+
 ➡2 major components 
 
 	1. A programming language (Java, Javascript, PHP, Golang, C++)
@@ -11,12 +12,19 @@ Express, Mongo is used in the backend.
 Javascript based backend is Data, file,Third Party(API)
 
 Folder Structure
+
 	➡DB
+ 
 	➡Model
+ 
 	➡Controllers
+ 
 	➡Routes
+
 	➡Middlewares
+ 
 	➡Utils
+ 
 	➡More (Depends)
 	
 
