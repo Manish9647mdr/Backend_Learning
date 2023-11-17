@@ -2,6 +2,7 @@
 
 Javascript Backend Roadmap
 ➡2 major components 
+
 	1. A programming language (Java, Javascript, PHP, Golang, C++)
 	2. A Database(Mongo DB, MySQL, Postgres, Sqlite)
 
